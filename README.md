@@ -1,5 +1,6 @@
 Hi, I’m @TamiSkelton
-Seasoned Technical Writer | Editor | Customer Experience Advocate | Usability/UX/
+
+Seasoned Technical Writer | Editor | Customer Experience Advocate | Usability/UX
 
 I am adept at problem-solving and quick thinking. I understand that people reading manuals are doing so to easily find an applicable solution. In addition to writing succinctly for these reference materials, my work with UX teams to provide error messages, tips, and input on workflows is equally as important. I enjoy building relationships with SMEs and I take pride in mentoring and empowering others in a cooperative and supportive environment all while having fun! I am also experienced in editing for grammar and technical accuracy.
 
